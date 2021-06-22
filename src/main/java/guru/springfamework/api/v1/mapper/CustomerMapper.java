@@ -5,7 +5,6 @@ import guru.springfamework.domain.Customer;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 
-import java.util.Optional;
 
 @Mapper
 public interface CustomerMapper {
