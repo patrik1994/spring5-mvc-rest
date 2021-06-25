@@ -87,7 +87,7 @@ public class CustomerControllerTest extends AbstractRestControllerTest {
                 .andExpect(jsonPath("$.firstname", equalTo("Michale")));
     }
 
-  /*  @Test
+   /* @Test
     public void createNewCustomer() throws Exception {
         //given
         CustomerDTO customer = new CustomerDTO();
