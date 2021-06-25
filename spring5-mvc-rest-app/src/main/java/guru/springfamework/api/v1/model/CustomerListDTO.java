@@ -1,5 +1,6 @@
 package guru.springfamework.api.v1.model;
 
+import guru.springframework.model.CustomerDTO;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
